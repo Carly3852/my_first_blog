@@ -1,0 +1,7 @@
+*.pcy
+*~
+__pycache
+myvenv
+db.sqlite3
+/static
+.ds_Store
